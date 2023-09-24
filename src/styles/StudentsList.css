@@ -1,7 +1,12 @@
 .list-item-container {
   display: flex;
+  margin-bottom: 10px;
 }
 
 .student-id {
+  margin-right: 5px;
+}
+
+.name {
   margin-right: 5px;
 }
